@@ -20,7 +20,7 @@ export default function App() {
   return (
     // renderizamos
     <div>
-      <h1>Hello StackBlitz!</h1>
+      <h1>Consumiendo API - JSONPLACEHOLDER!</h1>
       <ul>
         {!todos
           ? 'Cargando....'
